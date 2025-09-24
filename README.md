@@ -1,4 +1,4 @@
-# React Stepper App
+# React Step App
 
 A simple multi-step navigator built with React.
 The app displays a list of steps with messages, allowing users to move forward and backward, or jump directly to a specific step.
