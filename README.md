@@ -5,10 +5,7 @@ The app displays a list of steps with messages, allowing users to move forward a
 
 ## Features
 
-Navigate through steps using Next and Previous buttons
-
-Directly click on step numbers to jump to a step
-
-Loop navigation (go from last step back to first, and vice versa)
-
-Toggle visibility of the stepper
+- Navigate through steps using Next and Previous buttons
+- Directly click on step numbers to jump to a step
+- Loop navigation (go from last step back to first, and vice versa)
+- Toggle visibility of the stepper
